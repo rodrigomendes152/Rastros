@@ -1,7 +1,7 @@
 # Rastros
 Jogo de Tabuleiro Matemático
 
-PL7
-João Duarte Laranjo Cerquido (a93289)
-Rodrigo Simões Guimarães Mendes (a93223)
-Ana Filipa Ribeiro Murta (a93284)
+PL5 (Grupo6)
+1. João Duarte Laranjo Cerquido (a93289)
+2. Rodrigo Simões Guimarães Mendes (a93223)
+3. Ana Filipa Ribeiro Murta (a93284)
